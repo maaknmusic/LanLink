@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanLink</string>
+    <string name="a11y_desc">Lets a computer or phone that you connected with your LanLink PIN tap, swipe and type on this phone. LanLink only acts while someone is connected and does not read or collect screen content.</string>
+</resources>

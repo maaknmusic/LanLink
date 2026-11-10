@@ -1,0 +1,15 @@
+# Build output (the ready-made downloads are published as GitHub Releases instead)
+build/
+dist/
+*.class
+
+# Private signing key: never publish it. build-android.ps1 creates a new one for each builder.
+*.keystore
+*.jks
+
+# Editors and OS clutter
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+desktop.ini

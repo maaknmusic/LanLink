@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Same drawing as desktop/Icons.java: a monitor and a phone on a blue tile. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#2563EB" android:pathData="M24,4h60a20,20 0,0 1,20,20v60a20,20 0,0 1,-20,20h-60a20,20 0,0 1,-20,-20v-60a20,20 0,0 1,20,-20z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M20,26h50a4,4 0,0 1,4,4v32a4,4 0,0 1,-4,4h-50a4,4 0,0 1,-4,-4v-32a4,4 0,0 1,4,-4z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M39,66h12v9h-12z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M32,74h26a2,2 0,0 1,0,5h-26a2,2 0,0 1,0,-5z" />
+    <path android:fillColor="#93C5FD" android:pathData="M23,31h44a2,2 0,0 1,2,2v26a2,2 0,0 1,-2,2h-44a2,2 0,0 1,-2,-2v-26a2,2 0,0 1,2,-2z" />
+    <path android:fillColor="#2563EB" android:pathData="M66,38h20a6,6 0,0 1,6,6v40a6,6 0,0 1,-6,6h-20a6,6 0,0 1,-6,-6v-40a6,6 0,0 1,6,-6z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M68,42h16a4,4 0,0 1,4,4v36a4,4 0,0 1,-4,4h-16a4,4 0,0 1,-4,-4v-36a4,4 0,0 1,4,-4z" />
+    <path android:fillColor="#93C5FD" android:pathData="M69.5,48h13a1.5,1.5 0,0 1,1.5,1.5v25a1.5,1.5 0,0 1,-1.5,1.5h-13a1.5,1.5 0,0 1,-1.5,-1.5v-25a1.5,1.5 0,0 1,1.5,-1.5z" />
+    <path android:fillColor="#2563EB" android:pathData="M76,79a2,2 0,1 1,0,4a2,2 0,1 1,0,-4z" />
+</vector>
